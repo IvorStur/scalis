@@ -1,0 +1,11 @@
+project/project/
+project/target/
+target/
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+null
+CRLF
+.bsp
